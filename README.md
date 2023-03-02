@@ -1,5 +1,5 @@
 # Algoritmo MinMax para Conecta 4.
-Algoritmo MinMax con Alfa Beta pruning para resolver Conecta 4.
+Algoritmo MinMax con poda alfa beta para resolver Conecta 4, realizado en R.
 
 Se trata de un algoritmo que desarrollé en el marco de la asignatura Técnicas de Simulación del Máster en Metodologías del comportamiento y de la Salud. Publico a continuación tanto el código como la justificación para quién pueda interesarle, no se ha incluido teoría sobre el propio algoritmo ya que se entiende que el usuario tiene conocimientos sobre el mismo para poder implementarlo de forma correcta.
 
